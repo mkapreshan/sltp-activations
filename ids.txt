@@ -1,5 +1,3 @@
 # Approved computers - one Computer ID per line. A name after it is optional.
 # Lines starting with # are ignored.
-3F9A-0C21-7B44-E1D8  Example client (delete this line)
-015F-2C4A-CDDB-4990 
-015F-2C4A-CDDB-4990
+#  015F-2C4A-CDDB-4990
