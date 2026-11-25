@@ -1,4 +1,5 @@
 # Approved computers - one Computer ID per line. A name after it is optional.
 # Lines starting with # are ignored.
 #015F-2C4A-CDDB-49
+2408-637D-2E1D-D9A7
 
